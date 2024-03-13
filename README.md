@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Farid Ansari</h1>
-<h3 align="center">I am pursuing Bachelor of Computer Science from Suresh Gyan Vihar University , Jaipur. I want to be placed in a company or startups where I can use my skills and comprehensive abilities to better the company and personal learning. My aim is to work as an Engineer or a related position , which provides key participation , team work , good challenges , and career opportunities. Certain skills that I have worked with include Python , Data Analysis, Machine Learning, Excel . And what I might lack in skills I make up for with my determination to learn.</h3>
+<h3 align="center">I am pursuing Bachelor of Computer Science from Suresh Gyan Vihar University , Jaipur. Certain skills that I have worked with include Python , Data Analysis, Machine Learning, Excel . And what I might lack in skills I make up for with my determination to learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farid-007&label=Profile%20views&color=0e75b6&style=flat" alt="farid-007" /> </p>
 
