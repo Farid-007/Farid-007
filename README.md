@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Statistics**
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Python, SQL, Excel**
 
 - 📫 How to reach me **faridarman45@gmail.com**
 
