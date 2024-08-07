@@ -6,7 +6,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farid-007" alt="farid-007" /></a> </p> -->
 <img align="right" alt="coding" width="400"  src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="">
 
-- 🔭 I’m currently working on [Diet Recommendation System]
+- 🔭 I’m currently working on **Diet Recommendation System**
 - 🌱 I’m currently learning **Power BI**
 
 - 💬 Ask me about **Python, SQL, Excel, Power BI**
