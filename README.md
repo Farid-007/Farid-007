@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/1/folders/1R6Nk1YHyTpP2J-rNNk0dXg8obudSZUQJ)
 
-- ⚡ Fun fact **I think I am Genius**
+- ⚡ Fun fact **I think I am Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
